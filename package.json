@@ -16,5 +16,9 @@
     "url": "https://github.com/Leonardo-Juarez-Lopez/22100202/issues"
   },
   "homepage": "https://github.com/Leonardo-Juarez-Lopez/22100202#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
+  }
 }
